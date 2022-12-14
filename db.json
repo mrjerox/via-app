@@ -1,0 +1,100 @@
+{
+    "via_categories": [
+      { 
+        "id": 1, 
+        "name": "Via Mỹ", 
+        "status": 0,        
+        "added_by": 0,
+        "created_at": "", 
+        "updated_at": "" 
+      },
+      { 
+        "id": 2, 
+        "name": "Via Phil",
+        "status": 0, 
+        "added_by": 0,
+        "created_at": "", 
+        "updated_at": "" 
+      },
+      { 
+        "id": 3, 
+        "name": "Via Thái",
+        "status": 0, 
+        "added_by": 0,
+        "created_at": "", 
+        "updated_at": "" 
+      },
+      { 
+        "id": 4, 
+        "name": "Via Indo",
+        "status": 0, 
+        "added_by": 0,
+        "created_at": "", 
+        "updated_at": "" 
+      },
+      { 
+        "id": 5, 
+        "name": "Via Đức", 
+        "status": 0,
+        "added_by": 0,
+        "created_at": "", 
+        "updated_at": "" 
+      }
+    ],
+    "via": [
+      { 
+        "id": 1, 
+        "category_id": 1, 
+        "name": "Thái Lan 902 Live ADS - Kháng 956",
+        "desc": [
+          "092 Kháng live",
+          "Bao log check",
+          "Login m.facebook.com"
+        ],
+        "price": "123,456",
+        "price_sale": "99,999",
+        "status": 0,
+        "added_by": 0,
+        "created_at": "", 
+        "updated_at": ""
+      }
+    ],
+    "via_detail": [
+      {
+        "id": 1,
+        "via_id": 1,
+        "code": "codethailan902",
+        "status": 0,
+        "added_by": 0,
+        "created_at": "", 
+        "updated_at": ""
+      },
+      {
+        "id": 2,
+        "via_id": 1,
+        "code": "codethailan902",
+        "status": 0,
+        "added_by": 0,
+        "created_at": "", 
+        "updated_at": ""
+      },
+      {
+        "id": 3,
+        "via_id": 1,
+        "code": "codethailan902",
+        "status": 0,
+        "added_by": 0,
+        "created_at": "", 
+        "updated_at": ""
+      },
+      {
+        "id": 4,
+        "via_id": 1,
+        "code": "codethailan902",
+        "status": 0,
+        "added_by": 0,
+        "created_at": "", 
+        "updated_at": ""
+      }
+    ] 
+}
